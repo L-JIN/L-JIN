@@ -1,5 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=L-JIN&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+### Hi there!
 
 <!--
 **L-JIN/L-JIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
